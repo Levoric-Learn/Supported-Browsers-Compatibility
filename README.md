@@ -1,4 +1,4 @@
-# 📌 Supported Browsers & Compatibility
+# Supported Browsers & Compatibility
 
 Levoric Learn is built using **HTML, CSS, JavaScript, PHP, MySQL, and CDN** technologies, ensuring broad compatibility across modern web browsers.
 
@@ -26,4 +26,4 @@ Feel free to report them in our [GitHub Issues](https://github.com/levoric-learn
 
 ---
 
-🚀 **Stay updated!** We continuously enhance compatibility to ensure a seamless user experience across all major browsers.
+ **Stay updated!** We continuously enhance compatibility to ensure a seamless user experience across all major browsers.
